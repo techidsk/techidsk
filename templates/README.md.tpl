@@ -1,16 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,45:0f766e,100:f59e0b&text=techidsk&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Yuda%20Yuki,%20Sekai%20ichi!&descAlignY=58&descSize=18" alt="techidsk">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=AI+workflow+builder;Full-stack+toolmaker;TypeScript+%2B+Python+%2B+automation;Building+small+things+that+actually+help" alt="Typing SVG">
-</p>
+# techidsk
 
-<p align="center">
-  <a href="https://github.com/techidsk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-techidsk-111827?style=for-the-badge&logo=github"></a>
-  <img alt="Hangzhou" src="https://img.shields.io/badge/Hangzhou-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white">
-  <a href="https://github.com/techidsk?tab=repositories"><img alt="AI and Tools" src="https://img.shields.io/badge/AI%20%2B%20Tools-f59e0b?style=for-the-badge&logo=openai&logoColor=white"></a>
-</p>
+**Yuda Yuki, Sekai ichi!**
+
+Hangzhou · AI workflows · Full-stack tools · TypeScript + Python
+
+<a href="https://github.com/techidsk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-techidsk-111827?style=for-the-badge&logo=github"></a>
+<img alt="Hangzhou" src="https://img.shields.io/badge/Hangzhou-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white">
+<a href="https://github.com/techidsk?tab=repositories"><img alt="AI and Tools" src="https://img.shields.io/badge/AI%20%2B%20Tools-f59e0b?style=for-the-badge&logo=openai&logoColor=white"></a>
+
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Build</strong><br>
+      Practical tools, full-stack apps, automation scripts, and personal systems.
+    </td>
+    <td width="33%">
+      <strong>Explore</strong><br>
+      AI workflows, ComfyUI pipelines, prompt systems, and creative coding.
+    </td>
+    <td width="33%">
+      <strong>Ship</strong><br>
+      Small useful projects with TypeScript, Python, shell, Docker, and GitHub Actions.
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
@@ -25,26 +44,26 @@ Hi, I'm techidsk, based in Hangzhou. I like turning repeated work into tools, sh
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/techidsk/psy-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=techidsk&repo=psy-platform&theme=tokyonight&hide_border=true&border_radius=8" alt="psy-platform">
-      </a>
+      <h3><a href="https://github.com/techidsk/psy-platform">psy-platform</a></h3>
+      <p>心理学测试平台。A TypeScript app for building and running psychological tests.</p>
+      <code>TypeScript</code>
     </td>
     <td width="50%">
-      <a href="https://github.com/techidsk/common-tools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=techidsk&repo=common-tools&theme=tokyonight&hide_border=true&border_radius=8" alt="common-tools">
-      </a>
+      <h3><a href="https://github.com/techidsk/common-tools">common-tools</a></h3>
+      <p>个人用的开发库。Reusable utilities for day-to-day development work.</p>
+      <code>Python</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/techidsk/prompts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=techidsk&repo=prompts&theme=tokyonight&hide_border=true&border_radius=8" alt="prompts">
-      </a>
+      <h3><a href="https://github.com/techidsk/prompts">prompts</a></h3>
+      <p>Prompt experiments and reusable prompt material for AI-assisted workflows.</p>
+      <code>TypeScript</code>
     </td>
     <td width="50%">
-      <a href="https://github.com/techidsk/p5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=techidsk&repo=p5&theme=tokyonight&hide_border=true&border_radius=8" alt="p5">
-      </a>
+      <h3><a href="https://github.com/techidsk/p5">p5</a> / <a href="https://github.com/techidsk/p5-python">p5-python</a></h3>
+      <p>Creative coding sketches and experiments across TypeScript and Python.</p>
+      <code>TypeScript</code> <code>Python</code>
     </td>
   </tr>
 </table>
@@ -72,13 +91,10 @@ Hi, I'm techidsk, based in Hangzhou. I like turning repeated work into tools, sh
 - [{{ .Name }}]({{ .URL }}){{ if .Description }} - {{ .Description }}{{ end }}
 {{- end }}
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=techidsk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techidsk&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,45:0f766e,100:f59e0b" alt="footer">
-</p>
+Built from a generated README template. Reliable first, still a little stylish.
+
+</div>
