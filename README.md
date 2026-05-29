@@ -83,19 +83,19 @@ Hi, I'm techidsk, based in Hangzhou. I like turning repeated work into tools, sh
 
 ### Currently Working On
 
-- [techidsk/ComfyUI-moondream](https://github.com/techidsk/ComfyUI-moondream) - ComfyUI node to use the moondream tiny vision language model
+- [techidsk/image-crop-pipeline](https://github.com/techidsk/image-crop-pipeline)
 - [techidsk/psy-platform](https://github.com/techidsk/psy-platform) - 心理学测试平台
-- [techidsk/ralph-cli](https://github.com/techidsk/ralph-cli) - Shell utilities and experiments
-- [techidsk/kolors-celery](https://github.com/techidsk/kolors-celery) - Python image workflow experiments
-- [techidsk/prompts](https://github.com/techidsk/prompts) - Prompt experiments and reusable prompt material
+- [techidsk/ralph-cli](https://github.com/techidsk/ralph-cli)
+- [PozzettiAndrea/ComfyUI-SAM3](https://github.com/PozzettiAndrea/ComfyUI-SAM3) - ComfyUI wrapper for segment anything 3
+- [techidsk/kolors-celery](https://github.com/techidsk/kolors-celery)
 
 ### Latest Projects
 
-- [techidsk/psy-platform](https://github.com/techidsk/psy-platform) - 心理学测试平台
-- [techidsk/p5-python](https://github.com/techidsk/p5-python) - Creative coding sketches with Python
-- [techidsk/p5](https://github.com/techidsk/p5) - Creative coding sketches with TypeScript
-- [techidsk/common-tools](https://github.com/techidsk/common-tools) - 个人用的开发库
-- [techidsk/simple-tools](https://github.com/techidsk/simple-tools) - Small tools and experiments
+- [techidsk/image-crop-pipeline](https://github.com/techidsk/image-crop-pipeline)
+- [techidsk/ralph-cli](https://github.com/techidsk/ralph-cli)
+- [techidsk/drawio](https://github.com/techidsk/drawio)
+- [techidsk/prompts](https://github.com/techidsk/prompts)
+- [techidsk/stock-review](https://github.com/techidsk/stock-review)
 
 ---
 
