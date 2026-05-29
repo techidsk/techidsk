@@ -14,15 +14,25 @@ permissions:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    env:
+      README_SCRIBE_TOKEN: ${{ secrets.README || secrets.readme || secrets.PERSONAL_GITHUB_TOKEN }}
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Check README token
+        run: |
+          if [ -z "$README_SCRIBE_TOKEN" ]; then
+            echo "readme-scribe needs a personal access token secret named README or PERSONAL_GITHUB_TOKEN."
+            echo "The default GITHUB_TOKEN resolves as github-actions[bot], which cannot be used for recentContributions."
+            exit 1
+          fi
+
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.readme || secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ env.README_SCRIBE_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
