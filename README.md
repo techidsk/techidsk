@@ -83,19 +83,19 @@ Hi, I'm techidsk, based in Hangzhou. I like turning repeated work into tools, sh
 
 ### Currently Working On
 
+- [techidsk/product-daily-summary](https://github.com/techidsk/product-daily-summary) - GitHub trending 每日/每周/每月汇总，支持分享卡片与多语言（中/英/日）
 - [techidsk/image-crop-pipeline](https://github.com/techidsk/image-crop-pipeline)
 - [techidsk/psy-platform](https://github.com/techidsk/psy-platform) - 心理学测试平台
 - [techidsk/ralph-cli](https://github.com/techidsk/ralph-cli)
 - [PozzettiAndrea/ComfyUI-SAM3](https://github.com/PozzettiAndrea/ComfyUI-SAM3) - ComfyUI wrapper for segment anything 3
-- [techidsk/kolors-celery](https://github.com/techidsk/kolors-celery)
 
 ### Latest Projects
 
+- [techidsk/product-daily-summary](https://github.com/techidsk/product-daily-summary) - GitHub trending 每日/每周/每月汇总，支持分享卡片与多语言（中/英/日）
 - [techidsk/image-crop-pipeline](https://github.com/techidsk/image-crop-pipeline)
 - [techidsk/ralph-cli](https://github.com/techidsk/ralph-cli)
 - [techidsk/drawio](https://github.com/techidsk/drawio)
 - [techidsk/prompts](https://github.com/techidsk/prompts)
-- [techidsk/stock-review](https://github.com/techidsk/stock-review)
 
 ---
 
