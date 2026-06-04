@@ -83,8 +83,8 @@ Hi, I'm techidsk, based in Hangzhou. I like turning repeated work into tools, sh
 
 ### Currently Working On
 
-- [techidsk/dev-workflow](https://github.com/techidsk/dev-workflow) - techidsk 的跨工具开发工作流命令插件（Claude Code &#43; Codex）：ADR/踩坑/规格/提交/发版/hotfix
 - [techidsk/product-daily-summary](https://github.com/techidsk/product-daily-summary) - GitHub trending 每日/每周/每月汇总，支持分享卡片与多语言（中/英/日）
+- [techidsk/dev-workflow](https://github.com/techidsk/dev-workflow) - techidsk 的跨工具开发工作流命令插件（Claude Code &#43; Codex）：ADR/踩坑/规格/提交/发版/hotfix
 - [techidsk/image-crop-pipeline](https://github.com/techidsk/image-crop-pipeline)
 - [techidsk/psy-platform](https://github.com/techidsk/psy-platform) - 心理学测试平台
 - [techidsk/ralph-cli](https://github.com/techidsk/ralph-cli)
